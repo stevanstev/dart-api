@@ -1,0 +1,8 @@
+name: dart_api
+depedencies:
+  mongo_dart: ^0.4.3
+  http: ^0.12.2
+
+dev_dependencies:
+  mongo_dart: ^0.4.3
+  http: ^0.12.2
